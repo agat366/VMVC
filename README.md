@@ -1,6 +1,6 @@
-ASP.NET VMVC *FJ*
+ASP.NET VMVC *JF*
 ====
 
-ViewModel-View-Controller-Forget-Javascript concept/framework .NET C# implementation.
+ViewModel-View-Controller Javascript-Free concept/framework .NET C# implementation.
 
-*This is the beginning. To be continue...*
+*Detailed description being prepared at the moment...*
